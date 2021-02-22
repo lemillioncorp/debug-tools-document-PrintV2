@@ -1,0 +1,8 @@
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\bin\Release\Print-Document-V2.exe
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\bin\Release\Print-Document-V2.pdb
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\obj\Release\Print_Document_V2.Form1.resources
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\obj\Release\Print_Document_V2.Properties.Resources.resources
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\obj\Release\Print-Document-V2.csproj.GenerateResource.cache
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\obj\Release\Print-Document-V2.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\obj\Release\Print-Document-V2.exe
+C:\Users\Antonio Tavares\source\repos\tools-debug\Print-Document-V2\obj\Release\Print-Document-V2.pdb
